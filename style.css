@@ -1,0 +1,26 @@
+html, body, #map-canvas {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: palegreen;
+}
+
+#map-canvas {
+	height: 75%;
+	width: 75%;
+}
+
+lable{
+font-size:10;
+font-weight: 100;
+}
+
+input {
+	font-size: 0.75em;
+	padding: 10px;
+}
+h1{
+	color:black;
+	font-size: 25;
+	font-weight: 100;
+}
